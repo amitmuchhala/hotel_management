@@ -1,0 +1,6 @@
+<odoo>
+     <menuitem id="menu_hotel_booking"
+              name="Hotel Management"
+              action="action_hotel_booking"
+              sequence="10"/>
+</odoo>
